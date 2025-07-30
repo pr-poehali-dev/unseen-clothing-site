@@ -370,7 +370,7 @@ const Index = () => {
             </div>
           </div>
         </div>
-      </footer>
+      </section>
 
       {/* Footer */}
       <footer className="bg-black text-white py-12 border-t border-gray-800">
